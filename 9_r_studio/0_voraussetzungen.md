@@ -12,3 +12,4 @@ R lässt sich problemlos installieren:
 
 4. Führen Sie das Installationspacket aus und folgen den Anweisungen. 
 
+Nun haben Sie R auf Ihrem Laptop installiert. 

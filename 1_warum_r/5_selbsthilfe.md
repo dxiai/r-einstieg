@@ -40,8 +40,11 @@ In Jupyter Notebooks wird die Hilfe direkt unter dem Aufruf der help() Funktion 
 
 Jupyter Notebooks verfügen über die Option einer sogenannten *inline Hilfe*. Diese Funktion ruft die Dokumentation für die Funktion auf, die Sie gerade mit dem Cursor ausgewählt haben. 
 
-![Jupyter Notebooks Inline Hilfe](jupyter_inline_hilfe.png)
+![Jupyter Notebooks Inline Hilfe in Aktion](jupyter_inline_hilfe.png)
 
+Die Inline Hilfe kann über das `Help`-Menu von Jupyter Notebooks gestartet werden. Damit wir die Hilfe immer im Blick behalten, müssen wir den Reiter mit der inline Hilfe neben unser Notebook verschieben. 
+
+![Jupyter NB Hilfe verschieben](hilfe_verschieben.gif)
 
 #### Vignettes
 
