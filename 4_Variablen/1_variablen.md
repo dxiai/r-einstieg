@@ -1,0 +1,1 @@
+Damit wir mit unseren Daten arbeiten können müssen wir diese erreichen können. Dabei helfen uns R-Variablen.
