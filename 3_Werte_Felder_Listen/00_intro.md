@@ -1,0 +1,3 @@
+Wir verwenden R, um Daten zu bearbeiten. Diese Daten bestehen normaler Weise aus einzelnen Werten. In R werden Werte zu Datentypen zusammengefasst. Diese Datentypen definieren, wie wir die Daten dieses Typs bearbeiten dürfen. 
+
+R hat ein umfangreiches *Klassensystem*, mit dem Programmierer neue Datentypen erstellen können. Wir werden nicht so weit gehen, sondern versuchen die Grundlagen der Datentypen zu verstehen. Dazu betrachten wir die atomaren Datentypen *Zahlen*, *Wahrheitswerte* und *Zeichenketten*. Danach werden wir die zusammengesetzten Datentypen *Vektoren*  und *Listen* kennenlernen.
