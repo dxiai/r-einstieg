@@ -64,17 +64,19 @@ Weil viele Parameter von R-Funktionen *optional* sind, ist es üblich Werte an d
 
 #### Gleichheitszeichen oder Linkszuweisung?
 
-Welche Zuweisungsoperatoren verwendet werden sollen, hat fast  religiöse Züge. Für Anfänger halte ich es einfacher nur das Gleichheitszeichen und die Rechtszuweisung zu verwenden, weil die Linkszuweisung nicht für Parameterzuweisungen funktioniert. 
+Welche Zuweisungsoperatoren verwendet werden sollen, hat fast  religiöse Züge. Anfängern rate ich, nur das Gleichheitszeichen und die Rechtszuweisung zu verwenden, weil die Linkszuweisung nicht für Parameterzuweisungen funktioniert. 
 
-Falls Sie nämlich die Linkszuweisung anstatt des Gleichheitszeichens in einem Funktionsaufruf verwenden, dann erstellen Sie eine Variable mit dem gleichen Namen wie der Funktionsparameter und übergeben den Wert dieser Variable als `Postionsparameter` der Funktion. Dieser Fehler ist eine häufige Ursache für Fehlermeldungen.
+Falls Sie nämlich die Linkszuweisung anstatt des Gleichheitszeichens in einem Funktionsaufruf verwenden, dann erstellen Sie eine Variable mit dem gleichen Namen wie der Funktionsparameter und übergeben nach der Zuweisung den Wert dieser Variable als `Postionsparameter` der Funktion. Diese Verwechslung der Zuweisung ist eine häufige Ursache für Fehlermeldungen.
 
-Dieses Problem entsteht bei der Rechtszuweisung normalerweise nicht, weil die Werte in die umgekehrte Richtung fliessen. 
+Dieses Problem entsteht bei der Rechtszuweisung normalerweise nicht, weil die Werte in die umgekehrte Richtung fliessen. Dadurch lässt sich die Rechtszuweisung mit benannten Parametern schwerer verwechseln.
+
+<p class="alert alert-success">Wenn Sie nur das Gleichheitszeichen als Zuweisungsoperator verwenden, können Ihnen Zuweisungsfehler von benannten Parametern nicht passieren.</p>
 
 ***Beispiel***
 
 ```
 meineDaten = read_csv("meineDatei.csv", trim_ws = FALSE, col_names = FALSE)    # OK
-meineDaten = read_csv("meineDatei.csv", trim_ws <- FALSE, col_names <- FALSE)    # Fehler, weil falsche Positionen
+meineDaten = read_csv("meineDatei.csv", trim_ws <- FALSE, col_names <- FALSE)  # Fehler, weil falsche Positionen
 
 meineDaten = read_csv("meineDatei.csv", trim_ws = FALSE, col_names = FALSE -> spaltenNamenAus) # OK, aber schlechter Stil wegen geschachtelter Zuweisung. 
 ```
