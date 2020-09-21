@@ -46,13 +46,13 @@ Gelegentlich wollen wir Listenwerte nachträglich benennen. Dazu müssen wir die
 names(list(1,2,3)) <- c("a", "b", "c")
 ```
 
-<p class="alert alert-danger">Den Werten in Vektoren können keine Werte zugewiesen werden.</p>
+<p class="alert alert-danger">Den Werten in Vektoren können keine Namen zugewiesen werden.</p>
 
 #### Auf Vektoren und Listenelemente zugreifen.
 
 Um ein einzelnes Element aus einem Vektor zu extrahieren verwenden wir den `[]`-Operator. 
 
-Der `[]`-Operator erlaubt es uns Elemente aus einem Vektor mit Hilfe eines zweiten Vektors zu extrahieren. Interessant ist dieser Operator, wenn wir einen Vektor mit Wahrheitswerten übergeben. In diesem Fall greifen wir nur auf die Elemente zu die im Auswahlvektor den Wert `TRUE` haben. 
+Der `[]`-Operator erlaubt es uns ausserdem Elemente aus einem Vektor mit Hilfe eines zweiten Vektors zu extrahieren. Interessant ist dieser Operator, wenn wir einen Vektor mit Wahrheitswerten übergeben. In diesem Fall erhalten wir nur die Elemente, die im Auswahlvektor den Wert `TRUE` haben. 
 
 ***Beispiel***
 

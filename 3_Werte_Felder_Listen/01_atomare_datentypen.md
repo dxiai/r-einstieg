@@ -42,7 +42,7 @@ Kleine Werte lassen sich durch ein negatives Vorzeichen des Exponenten darstelle
 R kennt einige spezielle Zahlen: 
 
 * `pi` entspricht der Kreiszahl π
-* `Inf` und `-Inf` entsprechen dem mathematischen unendlich bzw. negativ unendlich. Diese Werte stehen für Werte die sich nicht mehr als numerische Werte darstellen lassen. `Inf` wird nach der grössten bzw. kleinsten möglichen Fliesskommazahl erreicht. 
+* `Inf` und `-Inf` entsprechen dem mathematischen unendlich bzw. negativ unendlich. Diese Werte stehen für Werte, die sich nicht mehr als numerische Werte vom Ihrem Computer darstellen lassen. `Inf` wird nach der grössten bzw. kleinsten möglichen Fliesskommazahl erreicht. 
 * `NaN` steht für `Not a Number`, damit werden normalerweise ungültige Zahlenwerte gekennzeichnet. Z.B. das Ergebnis der Division durch 0 ist `NaN`. 
 
 #### Wahrheitswerte
