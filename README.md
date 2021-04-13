@@ -5,7 +5,7 @@ Dieser Minikurs gibt einen Schnelleinstieg in die Arbeit mit R. Dabei werden die
 
 ## Für Editoren
 
-### ZHAW Moodle Layouts
+### ZHAW Moodle Layouts
 
 Das ZHAW Moodle verwendet Bootstrap 4 unbeschränkt. Es können alle Funktionen von Bootstrap genutzt werden. 
 
