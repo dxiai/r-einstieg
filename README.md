@@ -1,5 +1,5 @@
 # Einleitung
-Ein Minikurs zum Einstieg in die Arbeit mit R
+Ein Minikurs zum Einstieg in die Arbeit mit R, RMarkdown und Jupyter Notebook.
 
 Dieser Minikurs gibt einen Schnelleinstieg in die Arbeit mit R und Jupyter Notebook. Dabei werden die zentralen Konzepte angesprochen und kleine Übungen bereitgestellt. Der Kurs ist kein Programmierkurs.
 
