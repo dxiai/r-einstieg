@@ -1,6 +1,6 @@
 Damit wir mit unseren Daten arbeiten können müssen wir diese erreichen können. Dabei helfen uns R-Variablen.
 
-<p class="alert alert-primary">Definition: <b>Variablen</b> sind benannte Platzhalter, in denen wir beliebige Werte ablegen und über die wir diese Werte für unsere Arbeitsschritte wieder abrufen können.</p>
+<p class="alert alert-primary">Definition: **Variablen** sind benannte Platzhalter, in denen wir beliebige Werte ablegen und über die wir diese Werte für unsere Arbeitsschritte wieder abrufen können.</p>
 
 Ein Variablennname muss in R mit einem Buchstaben oder einem Punkt (`.`) beginnen und kann beliebig lang sein. Beginnt eine Variable mit einem Punkt, dann darf diesem Punkt nur ein weiterer Punkt oder ein Buchstabe folgen. Variablennamen dürfen nur aus Buchstaben, Unterstrichen (`_`), Punkten (`.`) und Ziffern bestehen.
 
@@ -54,7 +54,7 @@ meineVariable$a = 8
 print(meineAndereVariable$a)                 # ergibt  8
 ```
 
-<p class="alert alert-primary">Diese fast "magische" Datenübertragung wird in der Programmierung  als <i>Seiteneffekt</i> oder als <i>Nebeneffekt</i> bezeichnet. Obwohl es gelegentlich gewünschte und sinnvolle Seiteneffekte gibt, sind solche Seiteneffekte eine häufiger Quelle für <i>logische</i> Fehler.</p>
+<p class="alert alert-primary">Diese fast "magische" Datenübertragung wird in der Programmierung  als *Seiteneffekt* oder als *Nebeneffekt* bezeichnet. Obwohl es gelegentlich gewünschte und sinnvolle Seiteneffekte gibt, sind solche Seiteneffekte eine häufiger Quelle für *logische* Fehler.</p>
 
 #### Zuweisung von Funktionsparametern
 
@@ -81,4 +81,4 @@ meineDaten = read_csv("meineDatei.csv", trim_ws <- FALSE, col_names <- FALSE)  #
 meineDaten = read_csv("meineDatei.csv", trim_ws = FALSE, col_names = FALSE -> spaltenNamenAus) # OK, aber schlechter Stil wegen geschachtelter Zuweisung. 
 ```
 
-<p class="alert alert-success">Gewöhnen Sie sich an, Variablenzuweisungen <i>ausschliesslich</i> am Anfang oder am Ende einer Operation vorzunehmen.</p>
+<p class="alert alert-success">Gewöhnen Sie sich an, Variablenzuweisungen *ausschliesslich* am Anfang oder am Ende einer Operation vorzunehmen.</p>

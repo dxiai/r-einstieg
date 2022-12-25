@@ -1,11 +1,11 @@
 Es gibt verschiedene Tastaturlayouts bei denen wichtige Symbole unterschiedlichen Tasten zugeordnet sind.
 
-<p class="alert alert-warning" >
+<p class="alert alert-warning" markdown="1">
 Auf dieser Seite werden alle Tastenkombinationen mit Bezug auf die Schweizer Tastatur beschrieben. Einige der hier beschrieben Funktionen sind bei anderen Tastaturlayouts über eine andere Tastenkombination erreichbar.
 </p>
 
 In der Schweiz finden wir meistens das Schweizer Tastaturlayout mit dem Plus-Symbol (`+`) über der `1`.
-    Die wichtigsten Standardtasten sind:
+Die wichtigsten Standardtasten sind:
 
 * `Tabulator` (`tabstopp` oder `tab`)
 * `Escape` (`Esc`)
@@ -34,14 +34,12 @@ In der Schweiz finden wir meistens das Schweizer Tastaturlayout mit dem Plus-Sym
 </div>
 </div>
 
-<p class="alert alert-info"><b>
-    Die <code>Windows</code>-Taste: </b>Diese Taste befindet sich rechts und links neben der <code>Leerzeichen</code>-Taste. Im Gegensatz zur Kommandotaste unter Mac hat die <code>Windows</code>-Taste keine zentrale Funktion im System. Viele Tastaturkürzel,
-    die beim Mac über die <code>Kommando</code>-Taste ausgelöst werden, werden unter Windows über die Steuerungstaste bereitgestellt. Die <code>Windows</code>-Taste wird unter Windows fast ausschliesslich für Systemfunktionen verwendet.
+<p class="alert alert-info" markdown="1">
+**Die ``Windows``-Taste: **Diese Taste befindet sich rechts und links neben der ``Leerzeichen``-Taste. Im Gegensatz zur Kommandotaste unter Mac hat die ``Windows``-Taste keine zentrale Funktion im System. Viele Tastaturkürzel, die beim Mac über die ``Kommando``-Taste ausgelöst werden, werden unter Windows über die Steuerungstaste bereitgestellt. Die ``Windows``-Taste wird unter Windows fast ausschliesslich für Systemfunktionen verwendet.
 </p>
-<p class="alert alert-info"><b>
-    Die <code>AltGr</code>-Taste: </b>Auf Ihren Tastaturen sehen Sie auf manchen Tasten zusätzliche Symbole. Diese Symbole können Sie unter Windows nur über die <code>AltGr</code>-Taste erzeugen. Das ist unter Windows die einzige Funktion der <code>AltGr</code>-Taste.
-    Der Grund dafür ist, dass Europäische Computertastaturen einen grösseren Zeichenumfang als eine US-Tastatur (die sog. ANSI Tastatur) haben. Weil alle Programmiersprachen die Symbole der US-Tastatur verwenden, müssen die Europäischen Tastaturen diese
-    Symbole zusätzlich bereitstellen. Unter MacOS sind diese Symbole über beide <code>Alt</code>-Tasten erreichbar.
+<p class="alert alert-info" markdown="1">
+**Die ``AltGr``-Taste: **Auf Ihren Tastaturen sehen Sie auf manchen Tasten zusätzliche Symbole. Diese Symbole können Sie unter Windows nur über die ``AltGr``-Taste erzeugen. Das ist unter Windows die einzige Funktion der ``AltGr``-Taste. Der Grund dafür ist, dass Europäische Computertastaturen einen grösseren Zeichenumfang als eine US-Tastatur (die sog. ANSI Tastatur) haben. Weil alle Programmiersprachen die Symbole der US-Tastatur verwenden, müssen die Europäischen Tastaturen diese
+Symbole zusätzlich bereitstellen. Unter MacOS sind diese Symbole über beide ``Alt``-Tasten erreichbar.
 </p>
 
 #### Modifikatoren und Abkürzungen
@@ -49,7 +47,7 @@ In der Schweiz finden wir meistens das Schweizer Tastaturlayout mit dem Plus-Sym
 Gelegentlich benötigen wir Tastenkombinationen, bei denen wir mehrere Tasten gleichzeitig drücken. Dabei kommen die Tasten `Hochstellen`, `Alt` und `Steuerung` entweder einzeln als *Modifikatoren* zum Einsatz.
 
 <p class="alert alert-primary">
-    Definition: Modifikatoren Tasten haben keine eigene Bedeutung, sondern <b>modifizieren</b>&nbsp;die Bedeutung einer einer anderen Taste.
+    Definition: Modifikatoren Tasten haben keine eigene Bedeutung, sondern **modifizieren**&nbsp;die Bedeutung einer einer anderen Taste.
 </p>
 
 Die folgenden Tasten sind immer Modifikatoren:
@@ -71,28 +69,28 @@ Um nicht immer die Taste in ganzer Länge anzugeben, werden diese Modifikatoren 
     <div class="row">
         <div class="col-md-3">
             Hochstellen </div>
-        <div class="col-md-3"> <code>S</code> </div>
+        <div class="col-md-3"> ``S`` </div>
     </div>
     <div class="row">
         <div class="col-md-3">
             Alt (Win) / option (Mac) </div>
-        <div class="col-md-3"> <code>M</code> </div>
+        <div class="col-md-3"> ``M`` </div>
     </div>
     <div class="row">
         <div class="col-md-3">
             Steuerung</div>
-        <div class="col-md-3"><code>C</code>
+        <div class="col-md-3">``C``
         </div>
     </div>
 </div>
 
 Alle anderen Tasten werden mit ihrem Namen angegeben.
 
-<p class="alert alert-info">Um eine Tastaturkombination anzuzeigen werden zu drückenden Tasten mit <code>+</code> verknüpft. Z.B. <code>M + C + q</code> bedeutet, dass Sie die Tasten <code>Alt</code>, <code>Steuerung</code> und <code>Q</code>&nbsp;<b>gleichzeitig</b>&nbsp;drücken
+<p class="alert alert-info">Um eine Tastaturkombination anzuzeigen werden zu drückenden Tasten mit ``+`` verknüpft. Z.B. ``M + C + q`` bedeutet, dass Sie die Tasten ``Alt``, ``Steuerung`` und ``Q``&nbsp;**gleichzeitig**&nbsp;drücken
     müssen.
 </p>
-<p class="alert alert-info">Tasten die nacheinander gedrückt werden sollen, werden durch Leerzeichen getrennt. Z.B. <code>C + q a</code> bedeutet, dass Sie zuerst die Tasten <code>Steuerung</code> und <code>Q</code>&nbsp;<b>gleichzeitig</b>&nbsp;tippen und <b>danach</b>&nbsp;die
-    Taste <code>A</code> drücken müssen.
+<p class="alert alert-info">Tasten die nacheinander gedrückt werden sollen, werden durch Leerzeichen getrennt. Z.B. ``C + q a`` bedeutet, dass Sie zuerst die Tasten ``Steuerung`` und ``Q``&nbsp;**gleichzeitig**&nbsp;tippen und **danach**&nbsp;die
+    Taste ``A`` drücken müssen.
 </p>
 
 #### Funktionstasten
@@ -103,8 +101,8 @@ Auf modernen Laptops und vielen Desktoptastaturen sind diese Tasten standardmäs
 muss.
 
 <p class="alert alert-primary">
-    Neuere <b>MacBookPro</b>&nbsp;Modelle verfügen über einen sog. <i>Touchbar</i>&nbsp;wo sich normalerweise die Funktionstasten befinden. Das Drücken der <code>Fn</code>-Taste wechselt die Darstellung aus dem jeweiligen App-Kontext zu virtuellen Funktionstasten. Bei
-    Modellen mit Touchbar aus den Reihen vor 2020 fehlt eine <code>Esc</code>-Taste. Auch diese Taste können Sie mit der <code>Fn</code>-Taste im Touchbar aktivieren.
+    Neuere **MacBookPro**&nbsp;Modelle verfügen über einen sog. *Touchbar*&nbsp;wo sich normalerweise die Funktionstasten befinden. Das Drücken der ``Fn``-Taste wechselt die Darstellung aus dem jeweiligen App-Kontext zu virtuellen Funktionstasten. Bei
+    Modellen mit Touchbar aus den Reihen vor 2020 fehlt eine ``Esc``-Taste. Auch diese Taste können Sie mit der ``Fn``-Taste im Touchbar aktivieren.
 </p>
 
 #### Kontrollsequenzen
@@ -123,28 +121,28 @@ Die wichtigsten systemweiten Kontrollsequenzen funktionieren praktisch mit jeder
     </div>
     <div class="row">
         <div class="col-md-3">Kopieren </div>
-        <div class="col-md-3"> <code>C + c</code> </div>
-        <div class="col-md-3"><code>Cmd + c</code></div>
+        <div class="col-md-3"> ``C + c`` </div>
+        <div class="col-md-3">``Cmd + c``</div>
     </div>
     <div class="row">
         <div class="col-md-3"> Einfügen </div>
-        <div class="col-md-3"> <code>C + v</code> </div>
-        <div class="col-md-3"> <code>Cmd + v</code></div>
+        <div class="col-md-3"> ``C + v`` </div>
+        <div class="col-md-3"> ``Cmd + v``</div>
     </div>
     <div class="row">
         <div class="col-md-3">Ausschneiden </div>
-        <div class="col-md-3"> <code>C + x</code> </div>
-        <div class="col-md-3"> <code>Cmd + x</code></div>
+        <div class="col-md-3"> ``C + x`` </div>
+        <div class="col-md-3"> ``Cmd + x``</div>
     </div>
     <div class="row">
         <div class="col-md-3">Speichern </div>
-        <div class="col-md-3"> <code>C + s</code> </div>
-        <div class="col-md-3"> <code>Cmd + s</code> </div>
+        <div class="col-md-3"> ``C + s`` </div>
+        <div class="col-md-3"> ``Cmd + s`` </div>
     </div>
     <div class="row">
         <div class="col-md-3"> Rückgängig </div>
-        <div class="col-md-3"> <code>C + z</code></div>
-        <div class="col-md-3"> <code>Cmd + z</code> </div>
+        <div class="col-md-3"> ``C + z``</div>
+        <div class="col-md-3"> ``Cmd + z`` </div>
     </div>
 </div>
 
@@ -166,97 +164,97 @@ Die am häufigsten auftauchenden Sonderzeichen sind:
     </div>
     <div class="row">
         <div class="col-md-4">Apostroph (quote oder tick)</div>
-        <div class="col-md-2"> <code>'</code> </div>
-        <div class="col-md-2"> <code>'</code> </div>
-        <div class="col-md-2"><code>'</code></div>
+        <div class="col-md-2"> ``'`` </div>
+        <div class="col-md-2"> ``'`` </div>
+        <div class="col-md-2">``'``</div>
     </div>
     <div class="row">
         <div class="col-md-4">Dach (caret)</div>
-        <div class="col-md-2"><code>^</code></div>
-        <div class="col-md-2"><code>^</code></div>
-        <div class="col-md-2"><code>^</code></div>
+        <div class="col-md-2">``^``</div>
+        <div class="col-md-2">``^``</div>
+        <div class="col-md-2">``^``</div>
     </div>
     <div class="row">
         <div class="col-md-4">Anführungszeichen (double-quote)</div>
-        <div class="col-md-2"><code>"</code></div>
-        <div class="col-md-2"> <code>S + 2</code></div>
-        <div class="col-md-2"> <code>S + 2</code></div>
+        <div class="col-md-2">``"``</div>
+        <div class="col-md-2"> ``S + 2``</div>
+        <div class="col-md-2"> ``S + 2``</div>
     </div>
     <div class="row">
         <div class="col-md-4">Schrägstrich (slash)</div>
-        <div class="col-md-2"> <code>/</code></div>
-        <div class="col-md-2"><code>S + 7</code> </div>
-        <div class="col-md-2"><code>S + 7</code></div>
+        <div class="col-md-2"> ``/``</div>
+        <div class="col-md-2">``S + 7`` </div>
+        <div class="col-md-2">``S + 7``</div>
     </div>
     <div class="row">
         <div class="col-md-4">Akzent (back-tick)</div>
-        <div class="col-md-2"><code>`</code></div>
-        <div class="col-md-2"> <code>S + ^</code> </div>
-        <div class="col-md-2"> <code>S + ^</code> </div>
+        <div class="col-md-2">`````</div>
+        <div class="col-md-2"> ``S + ^`` </div>
+        <div class="col-md-2"> ``S + ^`` </div>
     </div>
     <div class="row">
         <div class="col-md-4">Kaufmännisches Und (ampersand)</div>
-        <div class="col-md-2"> <code>&amp;</code> </div>
-        <div class="col-md-2"> <code>S + 6</code></div>
-        <div class="col-md-2"> <code>S + 6</code></div>
+        <div class="col-md-2"> ``&amp;`` </div>
+        <div class="col-md-2"> ``S + 6``</div>
+        <div class="col-md-2"> ``S + 6``</div>
     </div>
     <div class="row">
         <div class="col-md-4">Gatter (hash oder gate)</div>
-        <div class="col-md-2"><code>#</code></div>
-        <div class="col-md-2"> <code>AltGr + 3</code> </div>
-        <div class="col-md-2"> <code>M + 3</code></div>
+        <div class="col-md-2">``#``</div>
+        <div class="col-md-2"> ``AltGr + 3`` </div>
+        <div class="col-md-2"> ``M + 3``</div>
     </div>
     <div class="row">
         <div class="col-md-4">Eckige Klammer auf </div>
-        <div class="col-md-2"><code>[</code></div>
-        <div class="col-md-2"> <code>AltGr + ü</code> </div>
-        <div class="col-md-2"><code>M + 5</code>
+        <div class="col-md-2">``[``</div>
+        <div class="col-md-2"> ``AltGr + ü`` </div>
+        <div class="col-md-2">``M + 5``
         </div>
     </div>
     <div class="row">
         <div class="col-md-4"> Eckige Klammer zu</div>
-        <div class="col-md-2"> <code>]</code> </div>
-        <div class="col-md-2"><code>AltGr + !</code></div>
-        <div class="col-md-2"> <code>M + 6</code></div>
+        <div class="col-md-2"> ``]`` </div>
+        <div class="col-md-2">``AltGr + !``</div>
+        <div class="col-md-2"> ``M + 6``</div>
     </div>
     <div class="row">
         <div class="col-md-4"> Geschweifte Klammer auf</div>
-        <div class="col-md-2"> <code>{</code></div>
-        <div class="col-md-2"> <code>AltGr + ä</code> </div>
-        <div class="col-md-2"> <code>M + 8</code> </div>
+        <div class="col-md-2"> ``{``</div>
+        <div class="col-md-2"> ``AltGr + ä`` </div>
+        <div class="col-md-2"> ``M + 8`` </div>
     </div>
     <div class="row">
         <div class="col-md-4">Geschweifte Klammer zu</div>
-        <div class="col-md-2"> <code>}</code></div>
-        <div class="col-md-2"> <code>AltGr + $</code></div>
-        <div class="col-md-2"> <code>M + 9</code></div>
+        <div class="col-md-2"> ``}``</div>
+        <div class="col-md-2"> ``AltGr + $``</div>
+        <div class="col-md-2"> ``M + 9``</div>
     </div>
     <div class="row">
         <div class="col-md-4">Senkrechter Strich (pipe)</div>
-        <div class="col-md-2"><code>|</code></div>
-        <div class="col-md-2"><code>AltGr + 1</code></div>
-        <div class="col-md-2"><code>M + 7</code></div>
+        <div class="col-md-2">``|``</div>
+        <div class="col-md-2">``AltGr + 1``</div>
+        <div class="col-md-2">``M + 7``</div>
     </div>
     <div class="row">
         <div class="col-md-4">Rückstrich (backslash)</div>
-        <div class="col-md-2"><code>\</code></div>
-        <div class="col-md-2"><code>AltGr + &lt;</code></div>
-        <div class="col-md-2"><code>S + M + 7</code> </div>
+        <div class="col-md-2">``\``</div>
+        <div class="col-md-2">``AltGr + &lt;``</div>
+        <div class="col-md-2">``S + M + 7`` </div>
     </div>
     <div class="row">
         <div class="col-md-4"> Tilde</div>
-        <div class="col-md-2"><code>~</code></div>
-        <div class="col-md-2"><code>AltGr + ^</code></div>
-        <div class="col-md-2"><code>M + n</code></div>
+        <div class="col-md-2">``~``</div>
+        <div class="col-md-2">``AltGr + ^``</div>
+        <div class="col-md-2">``M + n``</div>
     </div>
     <div class="row">
         <div class="col-md-4">Unterstrich (low dash)</div>
-        <div class="col-md-2"><code>_</code></div>
-        <div class="col-md-2"> <code>S + -</code></div>
-        <div class="col-md-2"> <code>S + -</code>
+        <div class="col-md-2">``_``</div>
+        <div class="col-md-2"> ``S + -``</div>
+        <div class="col-md-2"> ``S + -``
         </div>
     </div>
 </div>
 <br/>
-<p class="alert alert-success"><i class="fa fa-lg fa-lightbulb-o"></i> 
+<p class="alert alert-success"><i class="fa fa-lg fa-lightbulb-o">* 
     Merken Sie sich die Bezeichnungen und Symbole, denn Sie werden sie regelmässig mit R verwenden.</p>

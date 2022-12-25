@@ -6,14 +6,18 @@ Die folgenden Webbrowser arbeiten problemlos mit Jupyter Notebooks:
 * Google Chrome (empfohlen)
 * Safari
 
-<p class="alert alert-danger"><i class="fa fa-lg fa-exclamation-triangle"></i> Die beiden <b>Windows</p> Browser Internet Explorer und *Edge* werden nicht von Jupyter Notebooks unterstützt.</p>
+<p class="alert alert-danger" markdown="1">
+<i class="fa fa-lg fa-exclamation-triangle">* Die beiden **Windows</p> Browser Internet Explorer und *Edge* werden nicht von Jupyter Notebooks unterstützt.
+</p>
 
 #### Durchstarten
 
 In unserer Computational Thinking Cloud haben Sie eine persönliche Arbeitsumgebung, in der Ihre Daten und Lösungen gespeichert sind. 
 Wenn Sie Jupyter Notebooks starten, wird Ihr persönlicher Arbeitsbereich angelegt. Das kann ein paar Augenblicke dauern, weil Ihnen ein eigener kleiner Computer für Ihre Arbeit bereitgestellt wird.
 
-<p class="alert alert-warning">Gelegentlich dauert dieser Prozess etwas länger oder die Verbindung wurde unterbrochen. Sollten Sie nach 2 Minuten keine Oberfläche sehen, dann laden Sie die Seite im Browser neu.</p>
+<p class="alert alert-warning" markdown="1">
+Gelegentlich dauert dieser Prozess etwas länger oder die Verbindung wurde unterbrochen. Sollten Sie nach 2 Minuten keine Oberfläche sehen, dann laden Sie die Seite im Browser neu.
+</p>
 
 ![loading screen]()
 
@@ -30,7 +34,9 @@ Bei Start ist im Arbeitsbereich der *Launcher* geöffnet. Mit dem Launcher könn
 
 ![JupyterLab Bildschirm]()
 
-<p class="alert alert-info">Falls Ihr Bildschirm zu klein ist, können Sie den Werkzeugbereich ausblenden, indem Sie mit der Maus auf das Icon des gereade aktiven Bereichs klicken. Ein weiterer Klick öffnet den Werkzeugbereich wieder.</p>
+<p class="alert alert-info" markdown="1">
+Falls Ihr Bildschirm zu klein ist, können Sie den Werkzeugbereich ausblenden, indem Sie mit der Maus auf das Icon des gereade aktiven Bereichs klicken. Ein weiterer Klick öffnet den Werkzeugbereich wieder.
+</p>
 
 #### Ein neues Notebook erstellen
 
@@ -38,9 +44,13 @@ Im *Launcher* sehen Sie, dass Sie zwei unterschiedliche Jupyter Notebooks erstel
 
 Wir erstellen ein neues Notebook indem wir auf das Quadrat mit dem R-Logo klicken. Daraufhin öffnet sich das eigentliche Notebook. 
 
-<p class="alert alert-info">Ein Notebook besteht aus zwei Teilen: erstens dem Dokument, das alle Inhalte und Ergebnisse speichert. Zweitens dem <i>Kernel</i>, der unsere R-Befehle ausführt.</p>
+<p class="alert alert-info" markdown="1">
+Ein Notebook besteht aus zwei Teilen: erstens dem Dokument, das alle Inhalte und Ergebnisse speichert. Zweitens dem *Kernel*, der unsere R-Befehle ausführt.
+</p>
 
-<p class="alert alert-danger">Das <code>Python 3</code>-Notebook versteht die R-Syntax nicht! Wenn Sie ein <code>Python 3</code>-Notebook erstellen und darin R Code ausführen wollen, dann erhalten Sie eine Fehlermeldung! </p>
+<p class="alert alert-danger" markdown="1">
+Das ``Python 3``-Notebook versteht die R-Syntax nicht! Wenn Sie ein ``Python 3``-Notebook erstellen und darin R Code ausführen wollen, dann erhalten Sie eine Fehlermeldung!
+</p>
 
 Das Notebook besteht aus einem Eingabe-Bereich und einem kleinen Menubalken. Ganz rechts im Menubalken sehen wir einen kleinen Kreis und die Sprache des *Kernels*. Für R-Notebooks muss dort *immer* `R` stehen. 
 
@@ -52,7 +62,9 @@ Unser neues Notebook hat den Namen `Untitled.ipnb`. Im Werkzeugbereich sehen wir
 
 Wir können ein Notebook umbenennen, indem wir mit der rechten Maustaste auf den Namen in Reiter unseres Arbeitsbereichs klicken. Dort finden wir in der Mitte den Punkt `Rename File...`. Wählen wir diesen Punkt aus, erscheint ein kleiner Dialog, mit dessen Hilfe wir die Datei umbenennen können. Im Dateimanager im Werkzeugbereich können wir die Datei auf die gleiche Weise umbenennen. Beim Umbenennen müssen Sie das Notebook nicht schliessen. 
 
-<p class="alert alert-warning">Sie sollten <b>nicht</b> die Dateiendung <code>.ipynb</code> überschreiben! Falls Sie versehentlich die Endung gelöscht haben, müssen Sie die Endung wieder anfügen, weil Sie sonst die Datei nicht mit dem Notebook Editor öffnen können!</p>
+<p class="alert alert-warning" markdown="1">
+Sie sollten **nicht** die Dateiendung ``.ipynb`` überschreiben! Falls Sie versehentlich die Endung gelöscht haben, müssen Sie die Endung wieder anfügen, weil Sie sonst die Datei nicht mit dem Notebook Editor öffnen können!
+</p>
 
 #### Ein Notebook schliessen
 
@@ -70,7 +82,7 @@ Jupyter Notebooks sind vor Allem deshalb so populär, weil sie Dokumentation und
 
 Wenn wir ein neues Notebook starten, dann erscheint zu oberst ein graues Rechteck mit zwei eckigen Klammern links davon. Im Menubalken erkennen wir, dass es sich dabei um eine `Code`-Zelle handelt. Diese Zelle können wir befüllen indem wir auf der Tastatur die `Eingabe`-Taste drücken oder mit der Maus in diese Zellen klicken.
 
-![Notebook mit Dokumentatin, Code und Ergebnissen]()
+![Notebook mit Dokumentation, Code und Ergebnissen]()
 
 Mit dem `Abspiel`-Knopf im Menubalken beenden wir unsere Eingabe und führen diese Zelle aus. Unter der `Code`-Zelle erscheint dann das Ergebnis unseres Codes, falls unser Code Ergebnisse zum Anzeigen erzeugt. 
 
@@ -82,4 +94,6 @@ Der Code, die Ergebnisse und die Dokumentation werden gemeinsam im Notebook gesp
 
 Um neue Zellen in unser Notebook einzufügen, verwenden wir den Plus-Schalter im Menubalken. Mit dem Schere-Schalter können wir einzelnen Zellen wieder Löschen. 
 
-<p class="alert alert-info">Jupyter bietet eine Markdown-Referenz für die Formatierung von Markdown Zellen. Sie finden die Markdown-Referenz im Hilfe-Menu.</p>
+<p class="alert alert-info" markdown="1">
+Jupyter bietet eine Markdown-Referenz für die Formatierung von Markdown Zellen. Sie finden die Markdown-Referenz im Hilfe-Menu.
+</p>

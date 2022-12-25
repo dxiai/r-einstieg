@@ -15,7 +15,7 @@ Das ZHAW Moodle verwendet Bootstrap 4 unbeschränkt. Es können alle Funktionen 
 
 Das ZHAW Moodle verwendet die standard [fontawesome 4.7.0 free Icons](https://fontawesome.com/v4.7.0/icons/). 
 
-Ausserdem wird ein spezieller Satz von Glyphicons verwendet. Das einzige Symbol in dieser Auswahl, das sinnvoll verwendet werden kann, ist das ZHAW Logo: Z.B. `<i class="glyphicon glyphicon-zhaw"></i>`.
+Ausserdem wird ein spezieller Satz von Glyphicons verwendet. Das einzige Symbol in dieser Auswahl, das sinnvoll verwendet werden kann, ist das ZHAW Logo: Z.B. `<i class="glyphicon glyphicon-zhaw">*`.
 
 ## Lizenz
 

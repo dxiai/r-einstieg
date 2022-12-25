@@ -6,7 +6,7 @@ Die meisten Funktionen haben *Parameter*. Ein Parameter ist eine besondere [Vari
 
 Bei benannten Parametern weisen wir dem Parameternamen einen Wert zu. Damit müssen wir uns nicht an die Reihenfolge der Parameter halten. Stattdessen können wir die Logik unseres Funktionsaufrufs deutlich festhalten.
 
-<p class="alert alert-info">Viele R-Funktionen haben obligatorische und optionale Parameter. Es ist üblich, die <i>obligatorischen</i> Parameter als Positionsparameter und die <i>optionalen</i> Parameter als benannte Parameter an eine Funktion zu übergeben. </p>
+<p class="alert alert-info">Viele R-Funktionen haben obligatorische und optionale Parameter. Es ist üblich, die *obligatorischen* Parameter als Positionsparameter und die *optionalen* Parameter als benannte Parameter an eine Funktion zu übergeben. </p>
 
 Die meisten Funktionen haben ein Ergebnis. Dieses Ergebnis speichern wir am Besten in einer Variablen.
 

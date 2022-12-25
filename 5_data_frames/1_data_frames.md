@@ -29,7 +29,7 @@ Der Vektorenname ergibt sich entweder aus dem Variablennamen des Vektors oder wi
 
 Wir können auf die Vektoren in einem Data-Frame wie auf benannte  Listenelemente zugreifen. Selbstverständlich können wir Data-Frames Variablen zuweisen. 
 
-<p class="alert alert-info">Data-Frames sind <i>keine</i> speziellen Listen: Während bei Listen keine Beziehungzwischen den einzelnen Elementen besteht, haben die Vektoren eines Data-Frames alle die gleiche Länge und die Werte an der gleichen Position sind miteinander verknüpft.</p>
+<p class="alert alert-info">Data-Frames sind *keine* speziellen Listen: Während bei Listen keine Beziehungzwischen den einzelnen Elementen besteht, haben die Vektoren eines Data-Frames alle die gleiche Länge und die Werte an der gleichen Position sind miteinander verknüpft.</p>
 
 Wir können auf die einzelnen Vektoren wie bei Listen mit dem `[[]]`-Operator oder dem `$`-Operator zugreifen. 
 

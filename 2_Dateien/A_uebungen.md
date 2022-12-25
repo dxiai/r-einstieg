@@ -45,7 +45,7 @@ Das Ergebnis sollte Ihren Namen und Ihr Alter als Tabelle darstellen.
 * Wählen Sie die richtige `read`-Funktion für die Daten. 
 * Speichern Sie das Ergebnis der `read`-Funktion in die Variable `meineDaten`.
 
-<a href=""><p class="button button-primary"><i class="fa fa-lg fa-download"></i> CSV Daten</p></a>
+<a href=""><p class="button button-primary"><i class="fa fa-lg fa-download">* CSV Daten</p></a>
 
 Überprüfen Sie mit dem folgenden Code, ob Ihre Funktion richtig funktioniert hat.
 
